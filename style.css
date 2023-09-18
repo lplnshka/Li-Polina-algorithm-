@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'Petale';
+	font-style: normal;
+	font-weight: normal;
+	src: 
+		url('/Petale/web/Petale-Regular.woff2') format('woff2'), 
+		url('/Petale/web/Petale-Regular.woff') format('woff');
+}
+body {
+	color: #131111;
+	font-size: 16px;
+    font-family: 'Petale';
+	background-color: #ffffff;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.wrapper {
+	width: 980px;
+	margin: 0 auto;
+
+}
+
+input[type="text"] {
+	background-color: #464242;
+	border: 1px solid #1a1a1a;
+	height: 30px;
+	color: #b2b2b2;
+	padding: 0 10px;
+	vertical-align: top;
+}
+button {
+    font-family: 'Petale Text';
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff !important;
+    padding: 10px 40px;
+    border-radius: 50px;
+    border: 2px hidden;
+    background: #000000;
+  }
+button:hover {
+    color: #3b2b2b !important;
+    background: #feabcd;
+  }
+  
+#logotype {
+    width: 100%;
+    background: #feabcd; 
+    height: 10px;
+    margin: 0 auto;
+  }
+.logotype {
+    width: 100%;
+    float: left;
+}
+
+#banner {
+    height: 320px;
+    background: #a7a7a7;
+    margin: 0 auto;
+}
+
+
+.product-slider {
+
+  }
+
+#product-slider {
+    height: 740px;
+    background: #ececec; 
+    margin: 0 auto;
+    border-top-right-radius:8%;
+    border-top-left-radius:8%;
+  }
+
+#history {
+    height: 580px;
+    background-color: #ffffff;
+    background-image: url(imgs/ph1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.delivery {
+    padding-top: 19px;
+    height: 740px;
+    background: #ececec; 
+}
+
+.left {
+    width: 38%;
+    background-color: #ffffff;
+    border-top-right-radius: 8%;
+    
+}
+
+footer {
+    background: #feabcd; 
+}
+
