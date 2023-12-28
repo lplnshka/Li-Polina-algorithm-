@@ -7,3 +7,5 @@
 
 Готовый сайт
 https://lplnshka.github.io/soap-lend/
+
+производственная практика https://drive.google.com/drive/folders/1OjQy7XvkZnXHASs3PHTTuxSPvJ7chj8I
