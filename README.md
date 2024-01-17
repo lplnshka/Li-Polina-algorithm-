@@ -1,7 +1,7 @@
 # Li-Polina-algorithm-
 ෆ⁠╹⁠ ⁠.̮⁠ ⁠╹⁠ෆ
 
-<b>PixelPear</b> (Ли Полина, Шмелев Егорка, Сергеев Тимофей)
+PixelPear
 
 Доска- https://mogu.so/inviteLink?inviteBoardId=kmG08zqU584WOBjLUgdNo&inviteCode=11Fm5q7NWudfEyQB7wUOGr
 
