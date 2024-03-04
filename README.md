@@ -5,6 +5,9 @@
 
 Папка учебная практика https://drive.google.com/drive/folders/1XegHgoL6WMTBLi9JjTOMZzMEDe8XXQxu
 
+Аккаунт реплит 
+https://replit.com/@liplinaa
+
 Папка численные методы https://drive.google.com/drive/folders/1Nu7iN-vHOcB17Rd1zvC1-TLmu5dcwRFR
 
 Папка конкурсы https://drive.google.com/drive/folders/1EtpaLHUeLKZ2oeD1IkhmL-JIh_3T2gQX?usp=sharing
